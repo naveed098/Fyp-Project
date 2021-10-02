@@ -1,0 +1,151 @@
+[
+    {
+      "text": "ا",
+      "audio": "assets/urduAudio/1.mp3"
+    },
+    {
+      "text": "آ",
+      "audio": "assets/urduAudio/2.mp3"
+    },
+    {
+      "text": "ب",
+      "audio": "assets/urduAudio/3.mp3"
+    },
+    {
+      "text": "پ",
+      "audio": "assets/urduAudio/4.mp3"
+    },
+    {
+      "text": "ت",
+      "audio": "assets/urduAudio/5.mp3"
+    },
+    {
+      "text": "ٹ",
+      "audio": "assets/urduAudio/6.mp3"
+    },
+    {
+      "text": "ث",
+      "audio": "assets/urduAudio/7.mp3"
+    },
+    {
+      "text": "ج",
+      "audio": "assets/urduAudio/8.mp3"
+    },
+    {
+      "text": "چ",
+      "audio": "assets/urduAudio/9.mp3"
+    },
+    {
+      "text": "ح",
+      "audio": "assets/urduAudio/10.mp3"
+    },
+    {
+      "text": "خ",
+      "audio": "assets/urduAudio/11.mp3"
+    },
+    {
+      "text": "د",
+      "audio": "assets/urduAudio/12.mp3"
+    },
+    {
+      "text": "ڈ",
+      "audio": "assets/urduAudio/13.mp3"
+    },
+    {
+      "text": "ذ",
+      "audio": "assets/urduAudio/14.mp3"
+    },
+    {
+      "text": "ر",
+      "audio": "assets/urduAudio/15.mp3"
+    },
+    {
+      "text": "ڑ",
+      "audio": "assets/urduAudio/16.mp3"
+    },
+    {
+      "text": "ز",
+      "audio": "assets/urduAudio/17.mp3"
+    },
+    {
+      "text": "ژ",
+      "audio": "assets/urduAudio/18.mp3"
+    },
+    {
+      "text": "س",
+      "audio": "assets/urduAudio/19.mp3"
+    },
+    {
+      "text": "ش",
+      "audio": "assets/urduAudio/20.mp3"
+    },
+    {
+      "text": "ص",
+      "audio": "assets/urduAudio/21.mp3"
+    },
+    {
+      "text": "ض",
+      "audio": "assets/urduAudio/22.mp3"
+    },
+    {
+      "text": "ط",
+      "audio": "assets/urduAudio/23.mp3"
+    },
+    {
+      "text": "ظ",
+      "audio": "assets/urduAudio/24.mp3"
+    },
+    {
+      "text": "ع",
+      "audio": "assets/urduAudio/25.mp3"
+    },
+    {
+      "text": "غ",
+      "audio": "assets/urduAudio/26.mp3"
+    },
+    {
+        "text": "ف",
+        "audio": "assets/urduAudio/27.mp3"
+      },
+      {
+        "text": "ق",
+        "audio": "assets/urduAudio/28.mp3"
+      },
+      {
+        "text": "ک",
+        "audio": "assets/urduAudio/29.mp3"
+      },
+      {
+        "text": "گ",
+        "audio": "assets/urduAudio/30.mp3"
+      },
+      {
+        "text": "ل",
+        "audio": "assets/urduAudio/31.mp3"
+      },
+      {
+        "text": "م",
+        "audio": "assets/urduAudio/32.mp3"
+      },
+      {
+        "text": "ن",
+        "audio": "assets/urduAudio/33.mp3"
+      },
+      {
+        "text": "و",
+        "audio": "assets/urduAudio/34.mp3"
+      },
+      {
+        "text": "ہ",
+        "audio": "assets/urduAudio/35.mp3"
+      },
+      {
+        "text": "ی",
+        "audio": "assets/urduAudio/36.mp3"
+      },
+      {
+        "text": "ے",
+        "audio": "assets/urduAudio/37.mp3"
+      }
+  ]
+  
